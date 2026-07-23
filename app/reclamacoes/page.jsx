@@ -16,7 +16,6 @@ export default function ComplaintsPage() {
             <label className="block space-y-2"><span className="text-[10px] uppercase tracking-[.2em] text-cocoa">Assunto</span><input required name="assunto" className="w-full border-b border-gold/60 bg-transparent py-3 text-sm outline-none" /></label>
             <label className="block space-y-2"><span className="text-[10px] uppercase tracking-[.2em] text-cocoa">Mensagem</span><textarea required name="mensagem" rows="8" className="w-full border border-gold/40 bg-white/50 p-4 text-sm outline-none" /></label>
             <button type="submit" className="w-full bg-gold px-6 py-4 text-[11px] font-semibold uppercase tracking-[.24em] text-ink transition hover:bg-ink hover:text-ivory">Enviar reclamação</button>
-            <p className="text-xs leading-6 text-cocoa/70">Antes de publicar, substitua <strong>SEU_ID</strong> pelo endpoint do seu formulário Formspree.</p>
           </form>
         </div>
       </section>
