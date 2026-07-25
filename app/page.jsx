@@ -257,6 +257,7 @@ export default function Home() {
                   @atelier_agulhadouro
                 </a>
               </p>
+              <p><span className="mr-3 text-gold">◆</span>Endereço: Av. Ahmed Sekou Toure nr 675 R/C, Cidade de Maputo, Moçambique</p>
               <p>
                 <span className="mr-3 text-gold">◆</span>Atendimento por
                 marcação

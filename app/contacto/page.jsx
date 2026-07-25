@@ -18,6 +18,7 @@ export default function ContactPage() {
               <p><span className="mr-3 text-gold">◆</span>Telefone: +258 85 057 3499 / +258 86 303 3167</p>
               <p><span className="mr-3 text-gold">◆</span>Email: <a href="mailto:atelieragulha.ouro@gmail.com">atelieragulha.ouro@gmail.com</a></p>
               <p><span className="mr-3 text-gold">◆</span>Instagram: <a href="https://www.instagram.com/atelier_agulhadouro/" target="_blank" rel="noopener noreferrer">@atelieragulhadouro</a></p>
+              <p><span className="mr-3 text-gold">◆</span>Endereço: Av. Ahmed Sekou Toure nr 675 R/C, Cidade de Maputo, Moçambique</p>
               <p><span className="mr-3 text-gold">◆</span>Atendimento por marcação</p>
             </div>
           </div>
