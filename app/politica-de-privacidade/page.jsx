@@ -52,9 +52,6 @@ export default function PrivacyPage() {
           rés-do-chão, Cidade de Maputo, Moçambique
         </li>
         <li>
-          <strong>NUIT:</strong> [INSERIR NUIT]
-        </li>
-        <li>
           <strong>Email:</strong>{" "}
           <a href="mailto:[INSERIR EMAIL]">[INSERIR EMAIL]</a>
         </li>

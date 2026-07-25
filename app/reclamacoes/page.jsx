@@ -9,7 +9,7 @@ export default function ComplaintsPage() {
       <PageHero eyebrow="Reclamações" title="A sua opinião merece" italic="ser escutada" description="Utilize este canal para apresentar uma reclamação, sugestão ou pedido de esclarecimento relacionado com o nosso atendimento ou serviços." image="https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=2200&q=90" />
       <section className="py-24 sm:py-32">
         <div className="mx-auto max-w-3xl px-5 lg:px-8">
-          <form action="https://formspree.io/f/xykrnyvb" method="POST" className="space-y-5 border border-gold/30 bg-[#f7f0e3] p-6 shadow-soft sm:p-10">
+          <form action="https://formspree.io/f/xnjeoodg" method="POST" className="space-y-5 border border-gold/30 bg-[#f7f0e3] p-6 shadow-soft sm:p-10">
             <input type="hidden" name="_subject" value="Nova reclamação — Atelier Agulha D'Ouro" />
             <label className="block space-y-2"><span className="text-[10px] uppercase tracking-[.2em] text-cocoa">Nome completo</span><input required name="nome" className="w-full border-b border-gold/60 bg-transparent py-3 text-sm outline-none" /></label>
             <label className="block space-y-2"><span className="text-[10px] uppercase tracking-[.2em] text-cocoa">Email</span><input required type="email" name="email" className="w-full border-b border-gold/60 bg-transparent py-3 text-sm outline-none" /></label>
