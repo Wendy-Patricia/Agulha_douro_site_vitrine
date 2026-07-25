@@ -80,16 +80,12 @@ export default function TermsPage() {
         </li>
 
         <li>
-          <strong>NUIT:</strong> [INSERIR NUIT]
-        </li>
-
-        <li>
           <strong>Email:</strong>{' '}
-          <a href="mailto:[INSERIR EMAIL]">[INSERIR EMAIL]</a>
+          <a href="mailto:atelieragulha.ouro@gmail.com">atelieragulha.ouro@gmail.com</a>
         </li>
 
         <li>
-          <strong>Telefone:</strong> [INSERIR TELEFONE]
+          <strong>Telefone:</strong> +258 85 057 3499 / +258 86 303 3167
         </li>
       </ul>
 
