@@ -48,7 +48,7 @@ export default function ContactForm() {
       <input
         type="hidden"
         name="_subject"
-        value="Novo pedido de orçamento — Atelier Agulha D'Ouro"
+        value="Novo pedido de orçamento - Atelier Agulha D'Ouro"
       />
 
       <div className="grid gap-5 sm:grid-cols-2">

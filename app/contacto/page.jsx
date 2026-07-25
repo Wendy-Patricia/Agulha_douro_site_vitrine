@@ -16,7 +16,7 @@ export default function ContactPage() {
             <p className="mt-6 max-w-md text-sm leading-7 text-cocoa">O atendimento é feito por marcação para garantirmos tempo, atenção e privacidade a cada cliente.</p>
             <div className="mt-9 space-y-5 text-sm text-cocoa">
               <p><span className="mr-3 text-gold">◆</span>Telefone: +258 85 057 3499 / +258 86 303 3167</p>
-              <p><span className="mr-3 text-gold">◆</span>Email: <a href="mailto:contacto@agulhadouro.com">contacto@agulhadouro.com</a></p>
+              <p><span className="mr-3 text-gold">◆</span>Email: <a href="mailto:atelieragulha.ouro@gmail.com">atelieragulha.ouro@gmail.com</a></p>
               <p><span className="mr-3 text-gold">◆</span>Instagram: <a href="https://www.instagram.com/atelier_agulhadouro/" target="_blank" rel="noopener noreferrer">@atelieragulhadouro</a></p>
               <p><span className="mr-3 text-gold">◆</span>Atendimento por marcação</p>
             </div>
